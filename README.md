@@ -9,6 +9,7 @@
 
 # 2. 블록도
 ![image](https://user-images.githubusercontent.com/103232858/168215610-c59157b0-c028-4731-8eed-6bf84b7fb56c.png)
+https://github.com/mhk0904/Capstone-Design/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%84ROS%EB%B8%94%EB%A1%9D%EB%8F%84
 # 3. 개발 환경
 https://github.com/mhk0904/Capstone-Design/blob/774a24c460d85b6314ba489e317e031863bef391/Prerequisite
 # 4. 수정 사항 및 개선방향
