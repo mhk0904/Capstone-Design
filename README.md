@@ -13,5 +13,6 @@
 Opencv (4.5.5V)
 Mediapipe (0.8.5V)
 ros_vosk
+https://github.com/mhk0904/Capstone-Design/blob/774a24c460d85b6314ba489e317e031863bef391/Prerequisite
 # 4. 수정 사항 및 개선방향
 라즈베리파이에서 파이카메라와 마이크를 사용하여 로봇핸드를 동작시키려 했지만 jetson nano 보드에서 카메라와 마이크를 사용해 라즈베리파이로 publish하도록 변경하였습니다.
