@@ -8,7 +8,7 @@
 >  - 라즈베리파이에서 Ros Melodic을 사용하여 hand control node는 cam node에서 subscribe한 모션검출결과와 stt노드에서 subscribe한 결과를 수행시켜 로봇핸드를 동작시킵니다.
 
 # 2. 블록도
-![image](https://user-images.githubusercontent.com/103232858/168215610-c59157b0-c028-4731-8eed-6bf84b7fb56c.png)
+> ![image](https://user-images.githubusercontent.com/103232858/168215610-c59157b0-c028-4731-8eed-6bf84b7fb56c.png)
 ### 주차별 블록도
 > https://github.com/mhk0904/Capstone-Design/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%84ROS%EB%B8%94%EB%A1%9D%EB%8F%84
 # 3. 개발 환경
