@@ -9,7 +9,7 @@
 
 # 2. 블록도
 ![image](https://user-images.githubusercontent.com/103232858/168215610-c59157b0-c028-4731-8eed-6bf84b7fb56c.png)
-# 3. 사용된 패키지
+# 3. 개발 환경
 Opencv (4.5.5V)
 Mediapipe (0.8.5V)
 ros_vosk
