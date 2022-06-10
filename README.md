@@ -16,6 +16,8 @@
 ### 주차별 블록도
 > https://github.com/mhk0904/Capstone-Design/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%84ROS%EB%B8%94%EB%A1%9D%EB%8F%84
 
+### 주차별 수정사항
+
 # 실행코드
 
 #
