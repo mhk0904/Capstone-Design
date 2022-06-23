@@ -15,7 +15,7 @@
 > > [https://github.com/mhk0904/Capstone-Design/blob/774a24c460d85b6314ba489e317e031863bef391/Prerequisite](https://github.com/mhk0904/Capstone-Design/blob/main/Prerequisite.md)
 
 
-## 3. 개발 환경
+# 3. 개발 환경
 > ### Jetson nano에 연결된 카메라와 마이크로부터 영상검출을 하고, 검출한 데이터를 topic을 기반으로 Ros를 통해 publish하여 라즈베리파이에서 로봇핸드를 동작시킵니다.
 >  - Jetson nano에서 Ros Melodic을 사용하여 cam node에서 HandPosition Topic을 hand control node로 publish합니다
 >  - stt node에서 Ros Melodic을 사용하여 sound Topic으로 hand control node로 publish합니다
