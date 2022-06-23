@@ -16,7 +16,7 @@
 
 
 ## 동작 설명
-> ### Jetson nano에 연결된 카메라와 마이크로부터 영상검출을 하고, Ros를 사용해 라즈베리파이로 데이터를 publish하여 로봇핸드를 동작시킵니다.
+> ### Jetson nano에 연결된 카메라와 마이크로부터 영상검출을 하고, Ros로 topic을 라즈베리파이로 publish하여 로봇핸드를 동작시킵니다.
 >  - Jetson nano에서 Ros Melodic을 사용하여 cam node에서 HandPosition Topic을 hand control node로 publish합니다
 >  - stt node에서 Ros Melodic을 사용하여 sound Topic으로 hand control node로 publish합니다
 >  - Raspberry Pi의 hand control node는 cam node에서 subscribe한 모션검출결과와 stt node에서 subscribe한 결과를 수행시켜 로봇핸드를 동작시킵니다.
