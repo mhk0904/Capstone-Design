@@ -18,7 +18,7 @@
 > 4. Raspberry pi에 연결한 Arduino Hat을 이용하여 Robot Hand 동작
 
 # 4 개발 환경
->  - [[https://github.com/mhk0904/Capstone-Design/blob/774a24c460d85b6314ba489e317e031863bef391/Prerequisite](https://github.com/mhk0904/Capstone-Design/blob/main/Prerequisite.md)](https://github.com/mhk0904/Capstone-Design/blob/main/Pre_requisite.md)
-> > 
+>  - https://github.com/mhk0904/Capstone-Design/blob/main/Pre_requisite.md
+
 # 5. 소스 코드
-> https://github.com/mhk0904/Capstone-Design/tree/main/Code
+> - https://github.com/mhk0904/Capstone-Design/tree/main/Code
