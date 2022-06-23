@@ -3,9 +3,9 @@
 > - 때문에 GPU가 설치되어 있어 고성능 AI 어플리케이션의 구동이 가능한 Jetson 보드와 라즈베리파이를 사용하여 로봇 제어기술인 ROS를 사용하여 AI와 ROS를 결합한 작품을 개발하고자 합니다.
 
 # 1. 블록도
-> ![image](https://user-images.githubusercontent.com/103561996/175256551-a00aefec-d361-4419-bbd8-c314720731e2.png)
-> ## 수정사항 및 주차별 블록도
 > ![image](https://user-images.githubusercontent.com/103561996/175265425-872dd966-ef0f-4bd5-84bd-4c4ba31b4091.png)
+> ## 수정사항 및 주차별 블록도
+> 
 
 # 2. 개발 내용 및 개발환경
 > ## Deep learning을 사용한 동작 인식 및 ROS상에서 topic을 기반으로 분산 제어를 구현하는 기술의 개발
