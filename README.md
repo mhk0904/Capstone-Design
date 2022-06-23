@@ -8,7 +8,7 @@
 > https://github.com/mhk0904/Capstone-Design/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%84ROS%EB%B8%94%EB%A1%9D%EB%8F%84
 
 # 2. 개발 내용
-> ## 최근 각광을 받고 있는 Deep learning 기술을 사용하여 사람을 동작을 인식하고 이를 기반으로 ROS(Robot OS)상에서 서로간의 topic을 기반으로 분산 제어를 구현하는 기술의 개발
+> ## Deep learning을 사용한 동작 인식 및 ROS상에서 topic을 기반으로 분산 제어를 구현하는 기술의 개발
 > - jetson nano에서 Ros를사용하여 raspberry pi로 데이터를 송신합니다.
 > - opencv와 mediapipe를 사용하여 카메라로 영상검출을 하여 동작을 따라하는 로봇핸드를 조작하고
 > - gtts를 사용하여 마이크에서 음성인식을 통한 추가적인 동작을 수행할수있도록 제작하였습니다.
