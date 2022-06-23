@@ -4,7 +4,7 @@
 
 # 1. 블록도
 > ![image](https://user-images.githubusercontent.com/103561996/175256551-a00aefec-d361-4419-bbd8-c314720731e2.png)
-> ## 주차별 블록도
+> ## 수정사항 및 주차별 블록도
 > https://github.com/mhk0904/Capstone-Design/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%84ROS%EB%B8%94%EB%A1%9D%EB%8F%84
 
 # 2. 개발 내용 및 개발환경
@@ -23,6 +23,3 @@
 
 # 3. 실행 코드
 > https://github.com/mhk0904/Capstone-Design/tree/main/Code
-
-# 4. 수정 사항 및 개선방향
-> - 라즈베리파이에서 파이카메라와 마이크를 사용하여 로봇핸드를 동작시키려 했지만 jetson nano 보드에서 카메라와 마이크를 사용해 라즈베리파이로 publish하도록 변경하였습니다.
