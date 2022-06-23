@@ -14,9 +14,11 @@
 >  - stt node에서 Ros Melodic을 사용하여 sound Topic으로 hand control node로 publish합니다
 >  - Raspberry Pi의 hand control node는 cam node에서 subscribe한 모션검출결과와 stt node에서 subscribe한 결과를 수행시켜 로봇핸드를 동작시킵니다.
 
+# 3. 실행 코드
+> https://github.com/mhk0904/Capstone-Design/tree/main/Code
 
 # 4. 수정 사항 및 개선방향
 > - 라즈베리파이에서 파이카메라와 마이크를 사용하여 로봇핸드를 동작시키려 했지만 jetson nano 보드에서 카메라와 마이크를 사용해 라즈베리파이로 publish하도록 변경하였습니다.
 
-# 3. 개발 환경 및 실행 코드
+# 5. 개발 환경
 > [https://github.com/mhk0904/Capstone-Design/blob/774a24c460d85b6314ba489e317e031863bef391/Prerequisite](https://github.com/mhk0904/Capstone-Design/blob/main/Prerequisite.md)
