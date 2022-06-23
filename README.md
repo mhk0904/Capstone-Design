@@ -5,7 +5,7 @@
 # 1. 블록도
 > ![image](https://user-images.githubusercontent.com/103561996/175265425-872dd966-ef0f-4bd5-84bd-4c4ba31b4091.png)
 > ## 수정사항 및 주차별 블록도
-> 
+> https://github.com/mhk0904/Capstone-Design/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%84ROS%EB%B8%94%EB%A1%9D%EB%8F%84
 
 # 2. 개발 내용 및 개발환경
 > ## Deep learning을 사용한 동작 인식 및 ROS상에서 topic을 기반으로 분산 제어를 구현하는 기술의 개발
