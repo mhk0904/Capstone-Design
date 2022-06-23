@@ -5,7 +5,7 @@
 # 1. 블록도
 > ![image](https://user-images.githubusercontent.com/103561996/175256551-a00aefec-d361-4419-bbd8-c314720731e2.png)
 > ## 수정사항 및 주차별 블록도
-> https://github.com/mhk0904/Capstone-Design/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%84ROS%EB%B8%94%EB%A1%9D%EB%8F%84
+> ![image](https://user-images.githubusercontent.com/103561996/175265425-872dd966-ef0f-4bd5-84bd-4c4ba31b4091.png)
 
 # 2. 개발 내용 및 개발환경
 > ## Deep learning을 사용한 동작 인식 및 ROS상에서 topic을 기반으로 분산 제어를 구현하는 기술의 개발
@@ -16,7 +16,7 @@
 
 
 ## 동작 설명
-> ### Jetson nano에 연결된 카메라와 마이크로부터 영상검출을 하고 데이터를 Ros를 사용해 topic을 publish하여 라즈베리파이에서 로봇핸드를 동작시킵니다.
+> ### Jetson nano에 연결된 카메라와 마이크로부터 영상검출을 하고, 검출한 데이터를 topic을 기반으로 Ros를 통해 publish하여 라즈베리파이에서 로봇핸드를 동작시킵니다.
 >  - Jetson nano에서 Ros Melodic을 사용하여 cam node에서 HandPosition Topic을 hand control node로 publish합니다
 >  - stt node에서 Ros Melodic을 사용하여 sound Topic으로 hand control node로 publish합니다
 >  - Raspberry Pi의 hand control node는 cam node에서 subscribe한 모션검출결과와 stt node에서 subscribe한 결과를 수행시켜 로봇핸드를 동작시킵니다.
