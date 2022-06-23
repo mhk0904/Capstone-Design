@@ -7,11 +7,13 @@
 > ## 주차별 블록도
 > https://github.com/mhk0904/Capstone-Design/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%84ROS%EB%B8%94%EB%A1%9D%EB%8F%84
 
-# 2. 개발 내용
+# 2. 개발 내용 및 개발환경
 > ## Deep learning을 사용한 동작 인식 및 ROS상에서 topic을 기반으로 분산 제어를 구현하는 기술의 개발
 > - jetson nano에서 Ros를사용하여 raspberry pi로 데이터를 송신합니다.
 > - opencv와 mediapipe를 사용하여 카메라로 영상검출을 하여 동작을 따라하는 로봇핸드를 조작하고
 > - gtts를 사용하여 마이크에서 음성인식을 통한 추가적인 동작을 수행할수있도록 제작하였습니다.
+> > [https://github.com/mhk0904/Capstone-Design/blob/774a24c460d85b6314ba489e317e031863bef391/Prerequisite](https://github.com/mhk0904/Capstone-Design/blob/main/Prerequisite.md)
+
 
 ## 동작 설명
 > ### Jetson nano에 연결된 카메라와 마이크로부터 영상검출을 하고, Ros를 사용해 라즈베리파이로 데이터를 publish하여 로봇핸드를 동작시킵니다.
@@ -22,8 +24,5 @@
 # 3. 실행 코드
 > https://github.com/mhk0904/Capstone-Design/tree/main/Code
 
-# 4. 개발 환경
-> [https://github.com/mhk0904/Capstone-Design/blob/774a24c460d85b6314ba489e317e031863bef391/Prerequisite](https://github.com/mhk0904/Capstone-Design/blob/main/Prerequisite.md)
-
-# 5. 수정 사항 및 개선방향
+# 4. 수정 사항 및 개선방향
 > - 라즈베리파이에서 파이카메라와 마이크를 사용하여 로봇핸드를 동작시키려 했지만 jetson nano 보드에서 카메라와 마이크를 사용해 라즈베리파이로 publish하도록 변경하였습니다.
