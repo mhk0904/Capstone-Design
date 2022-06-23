@@ -21,5 +21,5 @@
 >  - stt node에서 Ros Melodic을 사용하여 sound Topic으로 hand control node로 publish합니다
 >  - Raspberry Pi의 hand control node는 cam node에서 subscribe한 모션검출결과와 stt node에서 subscribe한 결과를 수행시켜 로봇핸드를 동작시킵니다.
 
-# 3. 실행 코드
+# 3. 실행 파일
 > https://github.com/mhk0904/Capstone-Design/tree/main/Code
