@@ -3,7 +3,8 @@
 > - 때문에 GPU가 설치되어 있어 고성능 AI 어플리케이션의 구동이 가능한 Jetson 보드와 라즈베리파이를 사용하여 로봇 제어기술인 ROS를 사용하여 AI와 ROS를 결합한 작품을 개발하고자 합니다.
 
 # 1. 블록도
-> ![image](https://user-images.githubusercontent.com/103561996/175325491-7bee91b9-a31c-4bf8-affa-cbf130bc15c0.png)
+> ![image](https://user-images.githubusercontent.com/103232858/202382935-ff981d4d-f97c-4c58-91d1-cbc1f900b6c2.png)
+>
 > ## 수정사항 및 주차별 블록도
 > - https://github.com/mhk0904/Capstone-Design/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%84ROS%EB%B8%94%EB%A1%9D%EB%8F%84
 # 2. 목적
