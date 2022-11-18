@@ -1,4 +1,3 @@
-
 # jetson Xavier Nx 
 > Bionic(Ubuntu18.04) jetpack 4.5.1V
 > 
