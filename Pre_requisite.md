@@ -10,7 +10,9 @@
 > Ros Melodic
 > - ROS_MASTER_URI=https://192.168.0.70:11311
 > - ROS_IP : 192.168.0.70
+> 
 > # Arduino Mega 2560
+> 
 > Arduino IDE 1.8.19
 
 
@@ -20,3 +22,6 @@
 > Ros Melodic
 > - ROS_MASTER_URI=https://192.168.0.70:11311
 > - ROS_IP : 192.168.0.93
+> 
+> # Adafruit 16-Channel 12-bit PWM/Servo Shield
+>
