@@ -7,21 +7,27 @@
 >
 > ## 수정사항 및 주차별 블록도
 > - https://github.com/mhk0904/Capstone-Design/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%84ROS%EB%B8%94%EB%A1%9D%EB%8F%84
+
 # 2. 목적
 > ### Deep learning을 사용한 동작 인식 및 ROS상에서 topic을 기반으로 분산 제어를 구현하는 기술 학습
 >  - Jetson Xavier Nx에서 Ros Melodic을 사용하여 cam node에서 HandPosition Topic을 hand control node로 publish
 >  - stt node에서 Ros Melodic을 사용하여 sound Topic으로 hand control node로 publish
 >  - Raspberry Pi의 hand control node는 cam node에서 subscribe한 모션검출결과와 stt node에서 subscribe한 결과를 수행시켜 로봇핸드를 동작
+
 # 3 개발 내용 
-> 1. Jetson Xavier Nx usb 카메라로 영상 인식 및 데이터 가공
-> 2. Ros로 Raspberry pi로 데이터 전송
-> 3. Raspberry pi에서 speaker를 통해 tts 사용
-> 4. Raspberry pi에 연결한 Arduino Hat을 이용하여 Robot Hand 동작
+> 1. Jetson Xavier Nx에 연결된 usb 카메라로 영상 인식 및 데이터 가공
+> 2. Ros로 Raspberry pi4로 데이터 전송
+> 3. Raspberry pi4에 연결한 Arduino Hat을 이용하여 Robot Hand 동작
+
+> 4. Jetson Xavier Nx에 연결된 Arduino Mega2560의 Felx Sensor의 데이터 가공
+> 5. Ros로 Raspberry pi4로 데이터 전송
+> 6. Raspberry pi4에 연결한 Arduino Hat을 이용하여 Robot Hand 동작
 
 # 4 개발 환경
 >  - https://github.com/mhk0904/Capstone-Design/blob/main/Pre_requisite.md
 
 # 5. 소스 코드
 > - https://github.com/mhk0904/Capstone-Design/tree/main/Code
+
 # 6. 작품 UCC
 > https://youtu.be/Yehc7ChCxdQ
