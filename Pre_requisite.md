@@ -1,9 +1,4 @@
-# install packages
- > Opencv (4.5.5V)
- > 
- > Mediapipe (0.8.5V) 
- > 
- 
+
 # jetson Xavier Nx 
 > Bionic(Ubuntu18.04) jetpack 4.5.1V
 > 
