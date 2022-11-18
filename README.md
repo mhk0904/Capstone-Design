@@ -24,4 +24,4 @@
 # 5. 소스 코드
 > - https://github.com/mhk0904/Capstone-Design/tree/main/Code
 # 6. 작품 UCC
-> https://youtu.be/O0RIdRF3xws
+> https://youtu.be/Yehc7ChCxdQ
